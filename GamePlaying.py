@@ -1,7 +1,7 @@
 import sys
 treeList=[]
 treelen=0
-#Author: Mragank Kumar Yadav UIN:625005280
+#Author: Mragank Kumar Yadav
 #Parse input from the lisp format to python
 def parseInput(st):
     global treelen
